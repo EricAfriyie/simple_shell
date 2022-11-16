@@ -1,5 +1,5 @@
-### SIMPLE UNIX SHELL 🐚
-## Description 📃
+### SIMPLE UNIX SHELL
+## Description
 This is a simple implementation of a UNIX command line interpreter. The shell can interpret and execute command line arguments read from the standard input. the shell read lines from a file or terminal line which is then interpreted and executed if the command is valid
 
 # Requirements
@@ -11,7 +11,7 @@ The simple shell supports most shell commands, such as cat, pwd, ls -la and more
 Return Value :
 The shell returns a value of 0 if the command is valid and the command is executed successfully.
 
-# Output 📁
+# Output
 The program must have the exact same output as sh (/bin/sh) as well as the exact same error output.
 The only difference is when you print an error, the name of the program must be equivalent to the argv[0]
 Usage
